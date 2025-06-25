@@ -9,7 +9,8 @@ Your personal productivity buddy — combine ✅ task management and 🧠 Pomodo
 - 🔐 Saves your data in **localStorage**
 ---
 ## 🖼️ Screenshot
-![FocusZone Preview](./screenshot.png)
+![App Screenshot](./assets/screenshot.png)
+
 ---
 ## 🛠️ Built With
 - ⚛️ React JS
