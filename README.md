@@ -9,7 +9,7 @@ Your personal productivity buddy — combine ✅ task management and 🧠 Pomodo
 - 🔐 Saves your data in **localStorage**
 ---
 ## 🖼️ Screenshot
-![App Screenshot](./src/assets/focuszone.png)
+![App Screenshot](./Focus-Zone/src/assets/focuszone.png)
 
 ---
 ## 🛠️ Built With
